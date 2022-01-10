@@ -15,3 +15,6 @@ This is an example git repository used to understant the concepts in Git.
 This is a sample web projecy, deployment can be on any web server or even locall file system.
 
 ## How to Contribute
+
+### Copyright
+Tejaswini Pradip Srivastava,2022
