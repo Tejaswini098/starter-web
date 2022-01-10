@@ -7,7 +7,7 @@ This is examplpe to show different parts of the Git repository and varioud comma
 
 ## Purpose
 
-Sample website with plenty of files for demos
+This is an example git repository used to understant the concepts in Git.
 
 
 ## Deployment
