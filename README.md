@@ -20,4 +20,4 @@ This is a sample web projecy, deployment can be on any web server or even locall
 Please fork this repository and issue Pull requests for review
 
 ### Copyright
-Tejaswini Pradip Srivastava,2022
+Tejaswini Pradip Srivastava,2022. All rights reserved
